@@ -6,6 +6,8 @@
 ![Gemini 2.0 Flash](https://img.shields.io/badge/Gemini-2.0%20Flash-blue?style=for-the-badge&logo=google)
 ![Web Speech API](https://img.shields.io/badge/Web%20Speech-API-green?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript)
+![루트스토리](https://github.com/user-attachments/assets/c7b5579d-391c-4cca-9135-55cafeeb1545)
+
 
 ## ✨ 주요 특징
 
